@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/rack/rack
-  revision: f3cf79d6460dc592767941806d1b2b7008f73e01
-  tag: 2.1.4
+  revision: 6915282aef3705aa85810a7b3fe670dba39b95b5
+  tag: v3.0.4.1
   specs:
-    rack (2.1.4)
+    rack (3.0.4.1)
 
 GEM
   remote: https://rubygems.org/
